@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, I'm Asnari</h1>
+<h1 align="center">Hewo! 👋, I'm Asnari</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 <p align="left"> <a href="https://twitter.com/asnari_k" target="blank"><img src="https://img.shields.io/twitter/follow/asnari_k?logo=twitter&style=for-the-badge" alt="asnari_k" /></a> </p>
