@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/asnari_k" target="blank"><img src="https://img.shields.io/twitter/follow/asnari_k?logo=twitter&style=for-the-badge" alt="asnari_k" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile and Web Development**
+- 🌱 I’m currently learning **Frameworks**
 
 - ⚡ Bio **Roses are red, Violets are blue, I'm the missing semi-colon; to your line 32**
 
