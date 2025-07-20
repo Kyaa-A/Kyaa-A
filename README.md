@@ -15,9 +15,9 @@
 
 ## 💻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asnaripacalna&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asnaripacalna&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnaripacalna&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyaa-A&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kyaa-A&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaa-A&layout=compact&theme=tokyonight)
 
 ## 🤝 Let's Connect
 
@@ -25,4 +25,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asnaripacalna@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/asnaripacalna)
 
-![](https://komarev.com/ghpvc/?username=asnaripacalna&color=purple&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Kyaa-A&color=purple&style=flat-square)
