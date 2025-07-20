@@ -12,3 +12,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyaa-A/Kyaa-A/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kyaa-A/Kyaa-A/output/github-snake.svg" />
 </picture>
+
+## 💻 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asnaripacalna&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asnaripacalna&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnaripacalna&layout=compact&theme=tokyonight)
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/asnari-pacalna)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asnaripacalna@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/asnaripacalna)
+
+![](https://komarev.com/ghpvc/?username=asnaripacalna&color=purple&style=flat-square)
