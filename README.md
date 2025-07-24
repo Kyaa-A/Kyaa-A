@@ -17,10 +17,6 @@
 
 <div align="center">
 
-<!-- Custom Stats Section -->
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-<br>
-
 <!-- GitHub Readme Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Kyaa-A&show_icons=true&theme=tokyonight" />
 <br>
