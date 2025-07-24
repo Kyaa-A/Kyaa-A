@@ -20,11 +20,12 @@
 <!-- GitHub Readme Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Kyaa-A&show_icons=true&theme=tokyonight" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kyaa-A&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Kyaa-A&theme=tokyonight" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaa-A&layout=compact&theme=tokyonight" />
 
 </div>
+
 
 
 ## 🤝 Let's Connect
