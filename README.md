@@ -13,17 +13,23 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kyaa-A/Kyaa-A/output/github-snake.svg" />
 </picture>
 
-## 💻 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
+<!-- Custom Stats Section -->
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<br>
+
+<!-- GitHub Readme Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Kyaa-A&show_icons=true&theme=tokyonight" />
-<br />
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyaa-A&theme=tokyonight" />
-<br />
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaa-A&layout=compact&theme=tokyonight" />
 
 </div>
+
 
 ## 🤝 Let's Connect
 
