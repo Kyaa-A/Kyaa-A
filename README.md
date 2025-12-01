@@ -49,9 +49,11 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kyaa-A&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=ffffff&sideNums=a855f7&currStreakNum=ffffff&dates=888888" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaa-A&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6" width="49%" /><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyaa-A&theme=tokyonight" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyaa-A&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kyaa-A&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyaa-A&theme=tokyonight" height="180" /><br>
+  <img src="https://streak-stats.demolab.com/?user=Kyaa-A&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=ffffff&sideNums=a855f7&currStreakNum=ffffff&dates=888888" height="180" /><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyaa-A&theme=tokyonight" width="100%" />
   <!--
   <br>
   <picture>
