@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
 # Hello World!, I'm Asnari, a Filipino Web Developer 👋🏼:
 📘 Currently Self Learning<br>👨🏼‍🎓 Studying Information Technology at University of Mindanao<br>👨🏼‍💻 Working as Developer
