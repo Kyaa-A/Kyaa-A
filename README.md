@@ -30,13 +30,6 @@ Full-stack developer building type-safe, AI-first applications.
 - Type-safe full stack with strict validation from backend to frontend
 - RAG-ready AI systems with vector search + orchestrated LLM workflows
 
-## 🚀 Currently Building
-
-- AI-driven transportation and operations workflows
-- Scalable learning/operations platforms with automation-first pipelines
-- Security-focused tooling with auth and integration-heavy architecture
-- Production-ready internal systems with background workers and observability
-
 ## GitHub Stats
 
 <table>
