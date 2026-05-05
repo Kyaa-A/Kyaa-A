@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-stack+developer+building+type-safe%2C+AI-first+apps;Shipping+production+web%2C+automations%2C+and+AI+systems;TypeScript+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Postgres+%C2%B7+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Full-stack+developer+building+type-safe%2C+AI-first+apps;Shipping+production+web%2C+automations%2C+and+AI+systems;TypeScript+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Postgres+%C2%B7+LLMs)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,15 +37,15 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyaa-A&theme=nord_dark" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyaa-A&theme=tokyonight" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Kyaa-A&hide_border=true&background=1a1b27&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=ffffff&sideNums=38bdf8&currStreakNum=ffffff&dates=888888" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=Kyaa-A&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=ffffff&sideNums=a855f7&currStreakNum=ffffff&dates=888888" width="100%" />
     </td>
   </tr>
 </table>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyaa-A&theme=nord_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyaa-A&theme=tokyonight" width="100%" />
   <!--
   <br>
   <picture>
