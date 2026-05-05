@@ -1,5 +1,5 @@
 <a href="https://github.com/Kyaa-A">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:D946EF&height=200&section=header&text=Asnari%20Pacalna&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Type-Safe%20%C2%B7%20AI-First&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:D946EF&height=200&section=header&text=Asnari%20Pacalna&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 </a>
 
 <div align="center">
@@ -34,17 +34,8 @@
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyaa-A&theme=tokyonight" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Kyaa-A&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=ffffff&sideNums=a855f7&currStreakNum=ffffff&dates=888888" width="100%" />
-    </td>
-  </tr>
-</table>
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kyaa-A&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=ffffff&sideNums=a855f7&currStreakNum=ffffff&dates=888888" width="100%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyaa-A&theme=tokyonight" width="100%" />
   <!--
   <br>
