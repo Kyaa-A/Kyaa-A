@@ -1,11 +1,13 @@
-<!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
+<a href="https://github.com/Kyaa-A">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Asnari%20Pacalna&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Type-Safe%20%C2%B7%20AI-First&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+</a>
 
-# Hi, I'm Asnari Pacalna 👋
-Full-stack developer building type-safe, AI-first applications.
+<div align="center">
 
-📘 Continuously learning and shipping<br>
-👨🏼‍🎓 BSIT student at the University of Mindanao<br>
-👨🏼‍💻 Focused on production-grade web, API, and AI systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Full-stack+developer+building+type-safe%2C+AI-first+apps;Shipping+production+web%2C+automations%2C+and+AI+systems;TypeScript+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Postgres+%C2%B7+LLMs)](https://git.io/typing-svg)
+
+</div>
+
 
 # 💻 Tech Stack
 
