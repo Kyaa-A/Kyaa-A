@@ -9,7 +9,7 @@
 </div>
 
 
-# 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
