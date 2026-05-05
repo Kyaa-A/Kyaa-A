@@ -1,5 +1,5 @@
 <a href="https://github.com/Kyaa-A">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Asnari%20Pacalna&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Type-Safe%20%C2%B7%20AI-First&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:D946EF&height=200&section=header&text=Asnari%20Pacalna&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Type-Safe%20%C2%B7%20AI-First&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 </a>
 
 <div align="center">
