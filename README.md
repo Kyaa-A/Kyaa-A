@@ -68,7 +68,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kyaa-A&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=ffffff&sideNums=a855f7&currStreakNum=ffffff&dates=888888" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Kyaa-A&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=ffffff&sideNums=a855f7&currStreakNum=ffffff&dates=888888" width="60%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyaa-A&theme=tokyonight" width="100%" />
   <!--
   <br>
