@@ -56,31 +56,22 @@
 
 </div>
 
-## 🧠 Architecture & Engineering Approach
-
-- Monorepo development with `pnpm` workspaces + `Turborepo`
-- Clean Architecture with clear separation of concerns
-- Service Layer + Repository Pattern for maintainable backend code
-- API-first workflows using OpenAPI and TypeScript client generation
-- Type-safe full stack with strict validation from backend to frontend
-- RAG-ready AI systems with vector search + orchestrated LLM workflows
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Kyaa-A&hide_border=true&background=1a1b27&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=ffffff&sideNums=a855f7&currStreakNum=ffffff&dates=888888" width="60%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyaa-A&theme=tokyonight" width="100%" />
-  <!--
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyaa-A/Kyaa-A/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyaa-A/Kyaa-A/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Kyaa-A/Kyaa-A/output/github-snake.svg" />
-  </picture>
-  -->
 </div>
 
+## 🎯 Currently Learning
 
+I'm on a continuous learning journey, currently focusing on:
+
+- **RAG Systems with Vector Search and Orchestrated LLM Pipelines** — building retrieval-augmented systems end-to-end
+- **Advanced Retrieval** — hybrid search, query rewriting, and context-aware reranking
+- **Web Security Depth** — OWASP Top 10, threat modeling, and secure-by-default coding
+- **Agentic Workflows** — multi-step tool use, planning loops, reliable agent orchestration
+- **LLM Observability** — tracing, evals, and prompt regression testing
 
 ## 🤝 Let's Connect
 
@@ -96,3 +87,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kyaa-A&color=blueviolet&style=flat-square" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:D946EF&height=120&section=footer" width="100%" />
